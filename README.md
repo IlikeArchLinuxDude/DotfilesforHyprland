@@ -7,9 +7,9 @@ dotfiles for hyprland
 
 Waypaper: GUI Wallpaper manager for wayland.
 
-Nemo: File manager.
+Thunar: File manager.
 
-Alacritty: Linux terminal.
+Kitty: Linux terminal.
 
 Qview: The image viewer.
 
@@ -36,11 +36,12 @@ SwayNC: Beautiful Notification Center.
 
 Waybar: like polybar but for wayland.
 
-ttf-jetbrains-mono-nerd: do i need to explain?"
+ttf-jetbrains-mono-nerd: do i need to explain?
 
+Chromium: browser"
 
 # How to install? 
-sudo pacman -S rofi waypaper nemo nwg-look alacritty qview mpv polkit-gnome wl-clipboard grim slurp rofimoji waybar pipewire swaync noto-fonts-emoji ttf-jetbrains-mono-nerd
+sudo pacman -S rofi waypaper thunar nwg-look kitty qview mpv polkit-gnome wl-clipboard grim slurp rofimoji waybar pipewire swaync noto-fonts-emoji ttf-jetbrains-mono-nerd chromium
 
 git clone https://github.com/IlikeArchLinuxDude/DotfilesforHyprland.git
 
