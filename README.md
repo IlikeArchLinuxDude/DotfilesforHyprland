@@ -5,6 +5,8 @@ dotfiles for hyprland
 # Important apps for dotfiles 
 "Rofi: Application's menu.
 
+Swww
+
 Waypaper: GUI Wallpaper manager for wayland.
 
 Thunar: File manager.
@@ -41,7 +43,7 @@ ttf-jetbrains-mono-nerd: do i need to explain?
 Chromium: browser"
 
 # How to install? 
-sudo pacman -S rofi waypaper thunar nwg-look kitty qview mpv polkit-gnome wl-clipboard grim slurp rofimoji waybar pipewire swaync noto-fonts-emoji ttf-jetbrains-mono-nerd chromium
+sudo pacman -S rofi waypaper thunar nwg-look kitty qview mpv polkit-gnome wl-clipboard grim slurp rofimoji waybar pipewire swaync noto-fonts-emoji ttf-jetbrains-mono-nerd chromium swwww
 
 git clone https://github.com/IlikeArchLinuxDude/DotfilesforHyprland.git
 
