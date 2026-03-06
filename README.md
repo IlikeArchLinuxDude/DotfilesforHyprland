@@ -47,7 +47,7 @@ sudo pacman -S rofi waypaper thunar nwg-look kitty qview mpv polkit-gnome wl-cli
 
 git clone https://github.com/IlikeArchLinuxDude/DotfilesforHyprland.git
 
-go to your /home/yourname
+go to your /home/yourname/DotfilesforHyprland
 
 clone every file
 
