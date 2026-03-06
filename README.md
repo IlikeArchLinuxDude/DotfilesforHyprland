@@ -27,3 +27,6 @@ go to your /home/yourname
 clone every file 
 paste it to ~/.config/
 reboot and here!
+
+#CREDITS
+https://github.com/loliloollk
